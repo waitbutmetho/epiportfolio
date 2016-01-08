@@ -23,6 +23,14 @@ margin-bottom: 3em;
   font-size: 125%;
 }
 
+.projlink a{
+  color: darkorange;
+}
+
+.projlink a:hover{
+  color: white;
+}
+
 .icon-bar{
   background-color: white;
 }
