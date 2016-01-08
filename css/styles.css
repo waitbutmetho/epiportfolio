@@ -42,3 +42,7 @@ ul li a:hover {
 .navbar-brand:hover{
   color: darkorange;
 }
+
+img{
+  border: 1em solid grey;
+}
