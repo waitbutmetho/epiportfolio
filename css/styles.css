@@ -1,16 +1,22 @@
 body{
   font-family: verdana, serif, sans-serif;
   margin-top: 5em;
+  background-image: url("../img/darkbrushedmetal.jpg");
+  color: white;
 }
 
-.hobbiestitle{
+.navbar{
+ background-image: url("../img/lightbrushedmetal.png");
+}
+
+.margin4title{
 text-align: center;
 margin-top: 3em;
 margin-bottom: 3em;
 }
 
-.recentproj{
-text-align: center;
+.center{
+  text-align: center;
 }
 
 .projlink{
@@ -18,5 +24,21 @@ text-align: center;
 }
 
 .icon-bar{
-  background-color: grey;
+  background-color: white;
+}
+
+ul li a {
+  color: white;
+}
+
+ul li a:hover {
+  color: darkorange;
+}
+
+.navbar-brand{
+  color: white;
+}
+
+.navbar-brand:hover{
+  color: darkorange;
 }
