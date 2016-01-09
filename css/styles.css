@@ -54,3 +54,11 @@ ul li a:hover {
 img{
   border: 1em solid grey;
 }
+
+.topofpage{
+  color: darkorange;
+}
+
+.topofpage:hover{
+  color: white;
+}
